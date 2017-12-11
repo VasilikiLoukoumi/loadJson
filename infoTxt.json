@@ -1,5 +1,4 @@
-﻿[{
-"lang":"English",  
+[{
 "title":"Title",
 "abstract": "Abstract",
 "mainText":"Text",
@@ -7,7 +6,6 @@
 "date":"Date"
 },
 {
-"lang":"Greek",
 "title":"Τίτλος",
 "abstract":"Απόσπασμα",
 "mainText":"Κείμενο",
