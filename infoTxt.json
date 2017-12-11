@@ -1,0 +1,14 @@
+﻿[{
+"title":"Title",
+"abstract": "Abstract",
+"mainText":"Text",
+"author":"Author",
+"date":"Date"
+},
+{
+"title":"Τίτλος",
+"abstract":"Απόσπασμα",
+"mainText":"Κείμενο",
+"author":"Συγγραφέας",
+"date":"Ημερομηνία"
+}]
