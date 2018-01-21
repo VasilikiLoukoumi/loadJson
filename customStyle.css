@@ -16,3 +16,15 @@ img{
 h3{
 	text-align:center;
 }
+p{
+	text-align:center;
+}
+#seven{
+	color: OrangeRed;
+}
+#eight{
+	color: SeaGreen;
+}
+.numbers{
+	background-color:OldLace;
+}
